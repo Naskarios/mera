@@ -44,6 +44,32 @@ toRec?data;
 (data==-1)
 length=length-1;
 if
+
+
+
+
+
+ATOMIC OLA THA EKTELESTOUN SE ENA BHMA-TAUTOXRONA
+stou dijkstra to slide,oloi oi ypoloipoi users einai blocked
+end label-states kaneis ok eina livelock(mia while)
+accept label den maresei to tade livelock
+progress label ...
+temp claims:
+* never claim = oti eipe
+trace assert =kati san never claim
+
+**ERGASIA**
+Session protocol used in Application layer
+latex gia to SIP (bibtex) ena mikro summary.
+se promela to ideal case tou spin(3procs)
+se periptwseis lathwn,px kai oi 2 busy
+se me skip(thelei to datalink kai ema pragma akoma,selective repeat??)
+se asserts
+
+sto git
+to state==1 prepei na einai mesa sto do od gia to checkarei panta
+kai to len to  koitane kai ta 2 procs TAUTOXRONA
+
 ::(length<4) -> setToggle!msg
 fi
 }
